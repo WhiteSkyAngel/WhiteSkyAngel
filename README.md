@@ -41,7 +41,6 @@
     <a href="https://github.com/whiteskyangel/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=whiteskyangel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/whiteskyangel/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteskyangel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
@@ -52,7 +51,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Me suivre sur d'autres plateformes:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -61,7 +60,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Vues et followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=whiteskyangel">
 </a>
