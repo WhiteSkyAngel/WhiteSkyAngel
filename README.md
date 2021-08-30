@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ A propos de moi
 
-- 🔭 Je travaille actuellement sur **[LentiaMC](https://github.com/LentiaMC/)**
+- 🔭 Je travaille actuellement sur **Aucun Projet**
 
 - 🌱 J'apprends actuellement le **PHP / NODEJS**
 
