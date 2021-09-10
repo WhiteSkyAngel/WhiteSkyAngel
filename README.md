@@ -8,7 +8,7 @@
 
 - 🔭 Je travaille actuellement sur **Aucun Projet**
 
-- 🌱 J'apprends actuellement le **PHP / NODEJS**
+- 🌱 J'apprends actuellement le **PHP / NODEJS / JS / C#**
 
 - 📫 Me contacter **azertyx155@gmail.com**
 
