@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ A propos de moi
 
-- 🔭 Je travaille actuellement sur **Aucun Projet**
+- 🔭 Je travaille actuellement sur **WatchbotEx**
 
-- 🌱 J'apprends actuellement le **PHP / NODEJS / JS / C#**
+- 🌱 J'apprends actuellement le **PHP / HTML / CSS / NODEJS / JAVASCRIPT / C# / LUA**
 
-- 📫 Me contacter **azertyx155@gmail.com**
+- 📫 Me contacter **White.#0005**
 
 
 ## 🚀 Langages et Outils:
