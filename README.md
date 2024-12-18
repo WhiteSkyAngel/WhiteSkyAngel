@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ A propos de moi
 
-- 🔭 Je travaille actuellement sur **WatchbotEx**
+- 🔭 Je travaille actuellement sur **WNone**
 
-- 🌱 J'apprends actuellement le **PHP / HTML / CSS / NODEJS / JAVASCRIPT / C# / LUA**
+- 🌱 J'apprends actuellement le **NODEJS / JAVASCRIPT / C# / LUA**
 
 - 📫 Me contacter **White.#0005**
 
