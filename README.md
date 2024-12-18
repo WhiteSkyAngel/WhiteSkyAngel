@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ A propos de moi
 
-- 🔭 Je travaille actuellement sur **WNone**
+- 🔭 Je travaille actuellement sur **N/A**
 
 - 🌱 J'apprends actuellement le **NODEJS / JAVASCRIPT / C# / LUA**
 
