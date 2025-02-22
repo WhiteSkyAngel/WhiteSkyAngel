@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ParanoSearch**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Java**
 
 - 📫 How to reach me **Discord : White.0005**
 
